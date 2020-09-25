@@ -8,6 +8,7 @@ public class appiumTest {
 	public void MobileTest()
 	{
 		System.out.println("Appium1");
+		System.out.println("Appium122");
 	}
 	
 	@Test
