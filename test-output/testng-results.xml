@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2020-09-15T11:31:59 IST" finished-at="2020-09-15T11:31:59 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2020-09-15T11:31:59 IST" finished-at="2020-09-15T11:31:59 IST">
+      <class name="AlekyaProject.MavenProjects.appiumTest">
+        <test-method status="PASS" signature="MobileTest()[pri:0, instance:AlekyaProject.MavenProjects.appiumTest@175c2241]" name="MobileTest" duration-ms="10" started-at="2020-09-15T11:31:59 IST" finished-at="2020-09-15T11:31:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- MobileTest -->
+      </class> <!-- AlekyaProject.MavenProjects.appiumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
